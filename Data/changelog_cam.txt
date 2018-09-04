@@ -1,29 +1,33 @@
-<p style="font-size: 15px;"><strong>V5.0.5 (May 13th, 2017):</strong><p>
+<p style="font-size: 15px;"><strong>V5.3.8 (July 30th, 2018):</strong><p>
 <hr noshade>
 <ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Removed capability that is not available (Notification) & optimizations</li>
+    <li><strong>ADDED:</strong> Now Supports filtering of Motion Zones when using Nest Aware and NST Streaming Service</li>
+    <li><strong>FIXED:</strong> Bug Fixes / Tweaks</li>
 </ul>
 <br>
-<p style="font-size: 15px;"><strong>V5.0.4 (May 1st, 2017):</strong><p>
+
+<p style="font-size: 15px;"><strong>V5.3.7 (July 4th, 2018):</strong><p>
 <hr noshade>
 <ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Bug fixes to quiet logs</li>
+    <li><strong>FIXED:</strong> Performance optimizations</li>
+    <li><strong>FIXED:</strong> HTML Optimizations</li>
+    <li><strong>FIXED:</strong> Bug Fixes / Tweaks.</li>
 </ul>
 <br>
-<p style="font-size: 15px;"><strong>V5.0.3 (April 25th, 2017):</strong><p>
+
+<p style="font-size: 15px;"><strong>V5.3.6 (May 31st, 2018):</strong><p>
 <hr noshade>
 <ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Bug fixes to devices with public url not being shared</li>
+    <li><strong>FIXED:</strong> State use reductions and cleanups</li>
+    <li><strong>FIXED:</strong> Bug Fixes / Tweaks.</li>
 </ul>
 <br>
-<p style="font-size: 15px;"><strong>V5.0.2 (April 6th, 2017):</strong><p>
+
+<p style="font-size: 15px;"><strong>V5.3.1 (January 11th, 2018):</strong><p>
 <hr noshade>
 <ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Self healing Fix for Device Health getting stuck offline. (Takes a Couple Minutes to Repair)</li>
+    <li><strong>UPDATED:</strong> Lot's of HTML UI polishing.</li>
+    <li><strong>ADDED:</strong> You can now view the web tiles in browser (link is in the SmartApp > Manage Devices).</li>
+    <li><strong>FIXED:</strong> Some Bug Fixes / Tweaks.</li>
 </ul>
-<br>
-<p style="font-size: 15px;"><strong>V5.0.1 (April 3rd, 2017):</strong><p>
-<hr noshade>
-<ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Updated the logic to attempt a second data refresh 15 seconds after new install to initiate a check for the camera id</li>
-</ul>
+
